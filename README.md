@@ -27,7 +27,7 @@
 🔍 Who Am I?<br>I'm a Full-Stack Developer, Software Designer, and Data Analyst, blending code, creativity, and AI to build innovative solutions.<br><br>🚀 What I Do:<br>💻 Full-Stack Developer: I build scalable backends and dynamic frontends using modern technologies.<br>🎨 Software Designer: I craft intuitive, efficient, and well-structured system architectures.<br>📊 Data Analyst: I develop processes for database analysis and extract meaningful insights from data.<br>🤖 AI Enthusiast: I create predictive models and intelligent systems that enhance decision-making.<br><br>💡 On a Mission:<br>To merge technology, design, and artificial intelligence into seamless, smart, and user-friendly solutions that drive innovation.<br><br>🎉 Fun Fact:<br>I once spent more time optimizing a database query than coding an entire feature—because efficiency is an art!<br><br>⚡ Let's connect and build something amazing!
 
 <div align="center">
-  <img src="https://i.imgur.com/5Ab0izj.png" width="800" alt="Space Stars Divider" />
+  <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" width="800" alt="Space Stars Divider" />
 </div>
 <div align="center">
   <h2>🌠 TECHNOLOGIES</h2>
