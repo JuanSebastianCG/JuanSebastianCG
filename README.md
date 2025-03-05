@@ -38,8 +38,7 @@
 </div>
 
 <div align="center">
-  <h2>🌠 GITHUB STATS</h2>
-
+  <h2>🌠 LINKS </h2>
 [![](https://visitcount.itsvg.in/api?id=JuanSebastianCG&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -66,9 +65,10 @@
     </a>
   </div>
 </div>
-###
 
-<div align="left">
+
+<div align="center">
+  <h2>🌠 GITHUB STATS</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianCG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=great-gatsby&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=JuanSebastianCG&theme=chalk&column=5&row=2&margin-w=4&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
