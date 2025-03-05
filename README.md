@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanSebastianCG&theme=elegant&custom_title=How%20i%20am%20doing%20in%20github?&area=true&hide_border=true&hide_title=false&radius=9&bg_color=0000&title_color=ff982f&line=ff982f&color=ff982f" height="204" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanSebastianCG&theme=elegant&custom_title=How%20i%20am%20doing%20in%20github?&area=true&hide_border=true&hide_title=false&radius=9&bg_color=0000&title_color=ff982f&line=ff982f&color=ff982f" height="204" alt="activity-graph graph" />
 </div>
 
 ###
@@ -7,21 +7,37 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanSebastianCG.JuanSebastianCG&left_color=darkorange&right_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanSebastianCG.JuanSebastianCG&left_color=darkorange&right_color=black" />
 </div>
 
 ###
 
-<img align="right" height="100" src="https://i.postimg.cc/9XJm6jKz/Group-1.png"  />
+<div align="center">
+  <!-- GitHub Animation - Replace Snake -->
+  <img src="https://i.postimg.cc/pLQJNJBt/github-universe.gif" width="800" alt="GitHub Universe Animation" />
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/JuanSebastianCG/JuanSebastianCG/output/snake.svg" alt="Snake animation" />
+<img align="right" height="100" src="https://i.postimg.cc/9XJm6jKz/Group-1.png" />
 
 ###
 
 # 💫 About Me:
-🔍 Who Am I?<br>I'm a Full-Stack Developer, Software Designer, and Data Analyst, blending code, creativity, and AI to build innovative solutions.<br><br>🚀 What I Do:<br>💻 Full-Stack Developer: I build scalable backends and dynamic frontends using modern technologies.<br>🎨 Software Designer: I craft intuitive, efficient, and well-structured system architectures.<br>📊 Data Analyst: I develop processes for database analysis and extract meaningful insights from data.<br>🤖 AI Enthusiast: I create predictive models and intelligent systems that enhance decision-making.<br><br>💡 On a Mission:<br>To merge technology, design, and artificial intelligence into seamless, smart, and user-friendly solutions that drive innovation.<br><br>🎉 Fun Fact:<br>I once spent more time optimizing a database query than coding an entire feature—because efficiency is an art!<br><br>⚡ Let’s connect and build something amazing!
+🔍 Who Am I?<br>I'm a Full-Stack Developer, Software Designer, and Data Analyst, blending code, creativity, and AI to build innovative solutions.<br><br>🚀 What I Do:<br>💻 Full-Stack Developer: I build scalable backends and dynamic frontends using modern technologies.<br>🎨 Software Designer: I craft intuitive, efficient, and well-structured system architectures.<br>📊 Data Analyst: I develop processes for database analysis and extract meaningful insights from data.<br>🤖 AI Enthusiast: I create predictive models and intelligent systems that enhance decision-making.<br><br>💡 On a Mission:<br>To merge technology, design, and artificial intelligence into seamless, smart, and user-friendly solutions that drive innovation.<br><br>🎉 Fun Fact:<br>I once spent more time optimizing a database query than coding an entire feature—because efficiency is an art!<br><br>⚡ Let's connect and build something amazing!
+
+<div align="center">
+  <img src="https://i.postimg.cc/4y7zZxJt/stars-divider.png" width="800" alt="Stars Divider" />
+</div>
+
+<div align="center">
+  <h2>🌠 TECHNOLOGIES</h2>
+  <img src="https://img.shields.io/badge/JavaScript-ff6b01?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-ff6b01?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-ff6b01?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-ff6b01?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-ff6b01?style=for-the-badge&logo=postgresql&logoColor=black" />
+</div>
 
 
 # 💻 Tech Stack:
