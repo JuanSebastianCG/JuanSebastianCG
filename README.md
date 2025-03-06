@@ -23,46 +23,66 @@
 
 ###
 
-# 💫 About Me:
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h3 style="color: #ff982f; margin-top: 0;">🔍 Who Am I?</h3>
-    <p style="color: #ffffff;">I'm a Full-Stack Developer, Software Designer, and Data Analyst, blending code, creativity, and AI to build innovative solutions.</p>
-  </div>
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h3 style="color: #ff982f; margin-top: 0;">💡 On a Mission:</h3>
-    <p style="color: #ffffff;">To merge technology, design, and artificial intelligence into seamless, smart, and user-friendly solutions that drive innovation.</p>
-  </div>
+👋 Developer Profile
+<div align="center">
+  <kbd>
+    <div align="center">
+      <h3>🔍 Who Am I?</h3>
+      <p>Full-Stack Developer, Software Designer, and Data Analyst, blending code, creativity, and AI to build innovative solutions.</p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h3>💡 On a Mission:</h3>
+      <p>To merge technology, design, and artificial intelligence into seamless, smart, and user-friendly solutions that drive innovation.</p>
+    </div>
+  </kbd>
 </div>
-<h3 style="color: #ff982f; text-align: center;">🚀 What I Do:</h3>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h4 style="color: #ff982f; margin-top: 0;">💻 Full-Stack Developer:</h4>
-    <p style="color: #ffffff; margin-bottom: 0;">I build scalable backends and dynamic frontends using modern technologies.</p>
-  </div>
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h4 style="color: #ff982f; margin-top: 0;">🎨 Software Designer:</h4>
-    <p style="color: #ffffff; margin-bottom: 0;">I craft intuitive, efficient, and well-structured system architectures.</p>
-  </div>
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h4 style="color: #ff982f; margin-top: 0;">📊 Data Analyst:</h4>
-    <p style="color: #ffffff; margin-bottom: 0;">I develop processes for database analysis and extract meaningful insights from data.</p>
-  </div>
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h4 style="color: #ff982f; margin-top: 0;">🤖 AI Enthusiast:</h4>
-    <p style="color: #ffffff; margin-bottom: 0;">I create predictive models and intelligent systems that enhance decision-making.</p>
-  </div>
+🚀 What I Do
+<div align="center">
+  <kbd>
+    <div align="center">
+      <h3>💻 Full-Stack Developer</h3>
+      <p>I build scalable backends and dynamic frontends using modern technologies.</p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h3>🎨 Software Designer</h3>
+      <p>I craft intuitive, efficient, and well-structured system architectures.</p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h3>📊 Data Analyst</h3>
+      <p>I develop processes for database analysis and extract meaningful insights from data.</p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h3>🤖 AI Enthusiast</h3>
+      <p>I create predictive models and intelligent systems that enhance decision-making.</p>
+    </div>
+  </kbd>
 </div>
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h3 style="color: #ff982f; margin-top: 0;">🎉 Fun Fact:</h3>
-    <p style="color: #ffffff;">I once spent more time optimizing a database query than coding an entire feature—because efficiency is an art!</p>
-  </div>
-  <div style="background: #000000; border-left: 2px solid #ff982f; border-radius: 8px; padding: 15px; box-shadow: 0 0 10px rgba(255, 152, 47, 0.2);">
-    <h3 style="color: #ff982f; margin-top: 0;">⚡ Let's connect:</h3>
-    <p style="color: #ffffff;">Let's connect and build something amazing!</p>
-  </div>
+<div align="center">
+  <kbd>
+    <div align="center">
+      <h3>🎉 Fun Fact:</h3>
+      <p>I once spent more time optimizing a database query than coding an entire feature—because efficiency is an art!</p>
+    </div>
+  </kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <kbd>
+    <div align="center">
+      <h3>⚡ Let's connect:</h3>
+      <p>Let's connect and build something amazing!</p>
+    </div>
+  </kbd>
 </div>
 <div align="center">
   <img src="https://i.imgur.com/5Ab0izj.png" width="800" alt="Space Stars Divider" />
