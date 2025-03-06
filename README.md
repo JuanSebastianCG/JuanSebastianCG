@@ -19,9 +19,7 @@
 
 ###
 
-<img align="right" height="100" src="https://i.postimg.cc/9XJm6jKz/Group-1.png" />
-
-###
+<img align="right" height="100" src="[https://i.postimg.cc/9XJm6jKz/Group-1.png](https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png)" />
 
 👋 Developer Profile
 <div align="center">
@@ -54,7 +52,8 @@
       <p>I craft intuitive, efficient, and well-structured system architectures.</p>
     </div>
   </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<div align="center">
   <kbd>
     <div align="center">
       <h3>📊 Data Analyst</h3>
@@ -85,10 +84,7 @@
   </kbd>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/5Ab0izj.png" width="800" alt="Space Stars Divider" />
-</div>
-<div align="center">
-  <h2>🌠 TECHNOLOGIES</h2>
+  <h2>🌠 PRINCIPAL TECHNOLOGIES</h2>
   <img src="https://img.shields.io/badge/JavaScript-ff6b01?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-ff6b01?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/React-ff6b01?style=for-the-badge&logo=react&logoColor=black" />
