@@ -19,7 +19,6 @@
 
 ###
 
-
 <div align="center">
   <!-- GitHub Animation - Replace Snake -->
     <img src=".github\img\descriptionGithub2.png" width="1000" alt="Github Profile" />
@@ -78,11 +77,18 @@
 <div align="center">
   <img src="https://i.postimg.cc/8PbfsNGh/bars.png" width="800" alt="Space Stars Divider" />
   <h2>🌠 GITHUB STATS</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianCG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=great-gatsby&hide_border=false&order=2" height="170" alt="languages graph"  />
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanSebastianCG&theme=elegant&custom_title=How%20i%20am%20doing%20in%20github?&area=true&hide_border=true&hide_title=false&radius=9&bg_color=0000&title_color=ff982f&line=ff982f&color=ff982f" height="204" alt="activity-graph graph" />
-</div>
+  
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; width: 80%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianCG&locale=en&layout=compact&card_width=320&langs_count=10&theme=tokyonight&bg_color=000000&title_color=FF9800&text_color=FFD54F&icon_color=E53935&border_color=FFB74D" 
+     style="width: 30%;" 
+     alt="languages graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanSebastianCG&theme=elegant&custom_title=How%20i%20am%20doing%20in%20github?&area=true&hide_border=true&hide_title=false&radius=9&bg_color=0000&title_color=ff982f&line=ff982f&color=ff982f" 
+         style="width: 70%;" 
+         alt="activity-graph graph" />
+  </div>
   <img src="https://github-profile-trophy.vercel.app?username=JuanSebastianCG&theme=chalk&column=5&row=2&margin-w=4&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+
 </div>
+
 
 ###
