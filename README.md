@@ -79,7 +79,7 @@
   <h2>🌠 GITHUB STATS</h2>
   
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px; width: 80%;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianCG&locale=en&layout=compact&card_width=320&langs_count=10&theme=tokyonight&bg_color=000000&title_color=FF9800&text_color=FFD54F&icon_color=E53935&border_color=FFB74D" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanSebastianCG&locale=en&layout=compact&card_width=320&langs_count=10&theme=tokyonight&bg_color=000000&title_color=FF9800&text_color=FF9800&icon_color=E53935&border_color=FFB74D" 
      style="width: 30%;" 
      alt="languages graph" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanSebastianCG&theme=elegant&custom_title=How%20i%20am%20doing%20in%20github?&area=true&hide_border=true&hide_title=false&radius=9&bg_color=0000&title_color=ff982f&line=ff982f&color=ff982f" 
