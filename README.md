@@ -18,10 +18,13 @@
 </div>
 
 ###
-  <img src="https://i.postimg.cc/dQSX4sz8/img.png
-  " width="800" alt="Github Profile" />
 
 
+<div align="center">
+  <!-- GitHub Animation - Replace Snake -->
+    <img src="https://i.postimg.cc/dQSX4sz8/img.png
+  " width="1000" alt="Github Profile" />
+</div>
 
 <div align="center">
   <h2>🌠 PRINCIPAL TECHNOLOGIES</h2>
