@@ -19,7 +19,7 @@
 
 ###
   <img src="https://i.postimg.cc/dQSX4sz8/img.png
-  " width="800" alt="GitHub Universe Animation" />
+  " width="800" alt="Github Profile" />
 
 
 
