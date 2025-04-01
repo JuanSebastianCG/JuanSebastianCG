@@ -20,7 +20,7 @@
 
 <div align="center">
   <!-- GitHub Animation - Replace Snake -->
-    <img src=".github\img\descriptionGithub (1).png" width="1000" alt="Github Profile" />
+    <img src=".github\img\descriptionGithub (2).png" width="1000" alt="Github Profile" />
 </div>
 
 <div align="center">
