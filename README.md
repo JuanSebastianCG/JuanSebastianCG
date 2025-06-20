@@ -1,6 +1,6 @@
 <div align="center">
 <!-- segmento con gift  -->
-<img src=".github/img/logo_gift.gif" width="200" alt="Gift Animation" />
+<img src=".github/img/logo_gift.gif" width="100%" alt="Gift Animation" />
 
 
 </div>
