@@ -1,17 +1,17 @@
 <div align="center">
-<!-- segmento con gift  -->
-<img src=".github/img/logo_gift.gif" width="100%" alt="Gift Animation" />
-
-
-</div>
-
-###
 
 <br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanSebastianCG.JuanSebastianCG&left_color=darkorange&right_color=black" />
 </div>
+<!-- segmento con gift  -->
+<img src=".github/img/logo_gift.gif" width="100%" alt="Gift Animation" />
+
+</div>
+
+###
+
 
 ###
 
